@@ -23,4 +23,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Bhoomiverma23/LeetCode/tree/master/0572-subtree-of-another-tree) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3699-number-of-zigzag-arrays-i](https://github.com/Bhoomiverma23/LeetCode/tree/master/3699-number-of-zigzag-arrays-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [3699-number-of-zigzag-arrays-i](https://github.com/Bhoomiverma23/LeetCode/tree/master/3699-number-of-zigzag-arrays-i) |
 <!---LeetCode Topics End-->
