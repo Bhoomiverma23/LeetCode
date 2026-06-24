@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/Bhoomiverma23/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Bhoomiverma23/LeetCode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Bhoomiverma23/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/Bhoomiverma23/LeetCode/tree/master/1483-kth-ancestor-of-a-tree-node) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/Bhoomiverma23/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Bhoomiverma23/LeetCode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Bhoomiverma23/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/Bhoomiverma23/LeetCode/tree/master/1483-kth-ancestor-of-a-tree-node) |
 ## String Matching
 |  |
 | ------- |
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/Bhoomiverma23/LeetCode/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Bhoomiverma23/LeetCode/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Bhoomiverma23/LeetCode/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Prefix Sum
@@ -53,10 +56,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Bhoomiverma23/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/Bhoomiverma23/LeetCode/tree/master/1483-kth-ancestor-of-a-tree-node) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Bhoomiverma23/LeetCode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/Bhoomiverma23/LeetCode/tree/master/1483-kth-ancestor-of-a-tree-node) |
 ## Math
 |  |
 | ------- |
@@ -81,4 +86,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Bhoomiverma23/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/Bhoomiverma23/LeetCode/tree/master/1483-kth-ancestor-of-a-tree-node) |
+## Design
+|  |
+| ------- |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/Bhoomiverma23/LeetCode/tree/master/1483-kth-ancestor-of-a-tree-node) |
 <!---LeetCode Topics End-->
