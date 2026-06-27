@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Bhoomiverma23/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Bhoomiverma23/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/Bhoomiverma23/LeetCode/tree/master/1932-merge-bsts-to-create-single-bst) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Bhoomiverma23/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Bhoomiverma23/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Bhoomiverma23/LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Hash Table
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Bhoomiverma23/LeetCode/tree/master/0242-valid-anagram) |
 | [0567-permutation-in-string](https://github.com/Bhoomiverma23/LeetCode/tree/master/0567-permutation-in-string) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/Bhoomiverma23/LeetCode/tree/master/1932-merge-bsts-to-create-single-bst) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Bhoomiverma23/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Bhoomiverma23/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Bhoomiverma23/LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Divide and Conquer
@@ -212,4 +214,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/Bhoomiverma23/LeetCode/tree/master/0567-permutation-in-string) |
+## Enumeration
+|  |
+| ------- |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Bhoomiverma23/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 <!---LeetCode Topics End-->
