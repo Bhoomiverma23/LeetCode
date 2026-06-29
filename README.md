@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Bhoomiverma23/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0070-climbing-stairs](https://github.com/Bhoomiverma23/LeetCode/tree/master/0070-climbing-stairs) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Bhoomiverma23/LeetCode/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Bhoomiverma23/LeetCode/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Bhoomiverma23/LeetCode/tree/master/3700-number-of-zigzag-arrays-ii) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Bhoomiverma23/LeetCode/tree/master/0070-climbing-stairs) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Bhoomiverma23/LeetCode/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Linked List
 |  |
@@ -238,4 +240,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Bhoomiverma23/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Bhoomiverma23/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
