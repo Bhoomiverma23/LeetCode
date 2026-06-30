@@ -1,22 +1,18 @@
-class Solution {
-    public int f(int nums[],int index , int dp[]){
-        if(index == 0){
+class Solution { 
+    public int rob(int[] nums) {
+        int n = nums.length;
+        int prev = nums[0];
+        int prev2 = 0;
+        if( n == 1){
             return nums[0];
         }
-        if(index < 1){
-            return 0;
+        for(int i = 1 ; i<n ; i++){
+        int take = nums[i] + prev2;
+        int notTake = prev;
+        int curr = Math.max(take,notTake);
+        prev2 = prev;
+        prev = curr;
         }
-        if(dp[index] != -1){
-            return dp[index];
-        }
-        int take = nums[index] + f(nums,index-2,dp);
-        int notTake = f(nums,index-1,dp);
-        dp[index] = Math.max(take,notTake);
-        return dp[index];
-    }
-    public int rob(int[] nums) {
-        int dp[] = new int[nums.length];
-        Arrays.fill(dp, -1);
-        return f(nums,nums.length-1,dp);
+        return prev;
     }
 }
