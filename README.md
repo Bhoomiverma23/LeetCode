@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/Bhoomiverma23/LeetCode/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/Bhoomiverma23/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Bhoomiverma23/LeetCode/tree/master/0213-house-robber-ii) |
+| [0416-partition-equal-subset-sum](https://github.com/Bhoomiverma23/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0931-minimum-falling-path-sum](https://github.com/Bhoomiverma23/LeetCode/tree/master/0931-minimum-falling-path-sum) |
 | [1463-cherry-pickup-ii](https://github.com/Bhoomiverma23/LeetCode/tree/master/1463-cherry-pickup-ii) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Bhoomiverma23/LeetCode/tree/master/1483-kth-ancestor-of-a-tree-node) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Bhoomiverma23/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Bhoomiverma23/LeetCode/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Bhoomiverma23/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0416-partition-equal-subset-sum](https://github.com/Bhoomiverma23/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0931-minimum-falling-path-sum](https://github.com/Bhoomiverma23/LeetCode/tree/master/0931-minimum-falling-path-sum) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Bhoomiverma23/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1463-cherry-pickup-ii](https://github.com/Bhoomiverma23/LeetCode/tree/master/1463-cherry-pickup-ii) |
