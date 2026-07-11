@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/Bhoomiverma23/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Bhoomiverma23/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Bhoomiverma23/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Bhoomiverma23/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/Bhoomiverma23/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Bhoomiverma23/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Bhoomiverma23/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Bhoomiverma23/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Bhoomiverma23/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0133-clone-graph](https://github.com/Bhoomiverma23/LeetCode/tree/master/0133-clone-graph) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Bhoomiverma23/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Bhoomiverma23/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Bhoomiverma23/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Bhoomiverma23/LeetCode/tree/master/0572-subtree-of-another-tree) |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/Bhoomiverma23/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Bhoomiverma23/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Bhoomiverma23/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Bhoomiverma23/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/Bhoomiverma23/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Bhoomiverma23/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Bhoomiverma23/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -169,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Bhoomiverma23/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Bhoomiverma23/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/Bhoomiverma23/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Bhoomiverma23/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Bhoomiverma23/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
