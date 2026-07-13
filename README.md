@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Bhoomiverma23/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Bhoomiverma23/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Bhoomiverma23/LeetCode/tree/master/0066-plus-one) |
+| [0078-subsets](https://github.com/Bhoomiverma23/LeetCode/tree/master/0078-subsets) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Bhoomiverma23/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Bhoomiverma23/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0120-triangle](https://github.com/Bhoomiverma23/LeetCode/tree/master/0120-triangle) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Bhoomiverma23/LeetCode/tree/master/0078-subsets) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Bhoomiverma23/LeetCode/tree/master/1483-kth-ancestor-of-a-tree-node) |
 ## Design
 |  |
@@ -400,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Bhoomiverma23/LeetCode/tree/master/0078-subsets) |
 | [0494-target-sum](https://github.com/Bhoomiverma23/LeetCode/tree/master/0494-target-sum) |
 ## Topological Sort
 |  |
