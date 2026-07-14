@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Bhoomiverma23/LeetCode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1463-cherry-pickup-ii](https://github.com/Bhoomiverma23/LeetCode/tree/master/1463-cherry-pickup-ii) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Bhoomiverma23/LeetCode/tree/master/1483-kth-ancestor-of-a-tree-node) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Bhoomiverma23/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3620-network-recovery-pathways](https://github.com/Bhoomiverma23/LeetCode/tree/master/3620-network-recovery-pathways) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Bhoomiverma23/LeetCode/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Bhoomiverma23/LeetCode/tree/master/3700-number-of-zigzag-arrays-ii) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Bhoomiverma23/LeetCode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Bhoomiverma23/LeetCode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Bhoomiverma23/LeetCode/tree/master/0070-climbing-stairs) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Bhoomiverma23/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Bhoomiverma23/LeetCode/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Bhoomiverma23/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Bhoomiverma23/LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Bhoomiverma23/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Bhoomiverma23/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Bhoomiverma23/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Bhoomiverma23/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Bhoomiverma23/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/Bhoomiverma23/LeetCode/tree/master/3620-network-recovery-pathways) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Bhoomiverma23/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -408,4 +411,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3620-network-recovery-pathways](https://github.com/Bhoomiverma23/LeetCode/tree/master/3620-network-recovery-pathways) |
+## Number Theory
+|  |
+| ------- |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Bhoomiverma23/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 <!---LeetCode Topics End-->
