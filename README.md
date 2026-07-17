@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Bhoomiverma23/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/Bhoomiverma23/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Bhoomiverma23/LeetCode/tree/master/0101-symmetric-tree) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Bhoomiverma23/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Bhoomiverma23/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/Bhoomiverma23/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Bhoomiverma23/LeetCode/tree/master/0101-symmetric-tree) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Bhoomiverma23/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Bhoomiverma23/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Bhoomiverma23/LeetCode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Bhoomiverma23/LeetCode/tree/master/0072-edit-distance) |
+| [0096-unique-binary-search-trees](https://github.com/Bhoomiverma23/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0120-triangle](https://github.com/Bhoomiverma23/LeetCode/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Bhoomiverma23/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Bhoomiverma23/LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -172,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Bhoomiverma23/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Bhoomiverma23/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/Bhoomiverma23/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0300-longest-increasing-subsequence](https://github.com/Bhoomiverma23/LeetCode/tree/master/0300-longest-increasing-subsequence) |
@@ -194,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Bhoomiverma23/LeetCode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Bhoomiverma23/LeetCode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Bhoomiverma23/LeetCode/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/Bhoomiverma23/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0509-fibonacci-number](https://github.com/Bhoomiverma23/LeetCode/tree/master/0509-fibonacci-number) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Bhoomiverma23/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Bhoomiverma23/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
