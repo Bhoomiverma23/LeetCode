@@ -250,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0931-minimum-falling-path-sum](https://github.com/Bhoomiverma23/LeetCode/tree/master/0931-minimum-falling-path-sum) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Bhoomiverma23/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1049-last-stone-weight-ii](https://github.com/Bhoomiverma23/LeetCode/tree/master/1049-last-stone-weight-ii) |
+| [1260-shift-2d-grid](https://github.com/Bhoomiverma23/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Bhoomiverma23/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Bhoomiverma23/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1463-cherry-pickup-ii](https://github.com/Bhoomiverma23/LeetCode/tree/master/1463-cherry-pickup-ii) |
@@ -382,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/Bhoomiverma23/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Bhoomiverma23/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Bhoomiverma23/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sliding Window
@@ -422,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Bhoomiverma23/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Bhoomiverma23/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0931-minimum-falling-path-sum](https://github.com/Bhoomiverma23/LeetCode/tree/master/0931-minimum-falling-path-sum) |
+| [1260-shift-2d-grid](https://github.com/Bhoomiverma23/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1463-cherry-pickup-ii](https://github.com/Bhoomiverma23/LeetCode/tree/master/1463-cherry-pickup-ii) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Bhoomiverma23/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Bhoomiverma23/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
