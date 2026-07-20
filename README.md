@@ -321,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/Bhoomiverma23/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Bhoomiverma23/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Bhoomiverma23/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2285-maximum-total-importance-of-roads](https://github.com/Bhoomiverma23/LeetCode/tree/master/2285-maximum-total-importance-of-roads) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Bhoomiverma23/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Heap (Priority Queue)
 |  |
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/Bhoomiverma23/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Bhoomiverma23/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1696-jump-game-vi](https://github.com/Bhoomiverma23/LeetCode/tree/master/1696-jump-game-vi) |
+| [2285-maximum-total-importance-of-roads](https://github.com/Bhoomiverma23/LeetCode/tree/master/2285-maximum-total-importance-of-roads) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Bhoomiverma23/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Bhoomiverma23/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/Bhoomiverma23/LeetCode/tree/master/3620-network-recovery-pathways) |
@@ -405,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Bhoomiverma23/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Bhoomiverma23/LeetCode/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Bhoomiverma23/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2285-maximum-total-importance-of-roads](https://github.com/Bhoomiverma23/LeetCode/tree/master/2285-maximum-total-importance-of-roads) |
 ## Memoization
 |  |
 | ------- |
@@ -438,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0133-clone-graph](https://github.com/Bhoomiverma23/LeetCode/tree/master/0133-clone-graph) |
 | [1791-find-center-of-star-graph](https://github.com/Bhoomiverma23/LeetCode/tree/master/1791-find-center-of-star-graph) |
+| [2285-maximum-total-importance-of-roads](https://github.com/Bhoomiverma23/LeetCode/tree/master/2285-maximum-total-importance-of-roads) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Bhoomiverma23/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Bhoomiverma23/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Bhoomiverma23/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
