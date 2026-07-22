@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Bhoomiverma23/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Bhoomiverma23/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Bhoomiverma23/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0399-evaluate-division](https://github.com/Bhoomiverma23/LeetCode/tree/master/0399-evaluate-division) |
 | [0404-sum-of-left-leaves](https://github.com/Bhoomiverma23/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0572-subtree-of-another-tree](https://github.com/Bhoomiverma23/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Bhoomiverma23/LeetCode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Bhoomiverma23/LeetCode/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Bhoomiverma23/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Bhoomiverma23/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0399-evaluate-division](https://github.com/Bhoomiverma23/LeetCode/tree/master/0399-evaluate-division) |
 | [0443-string-compression](https://github.com/Bhoomiverma23/LeetCode/tree/master/0443-string-compression) |
 | [0516-longest-palindromic-subsequence](https://github.com/Bhoomiverma23/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0567-permutation-in-string](https://github.com/Bhoomiverma23/LeetCode/tree/master/0567-permutation-in-string) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Bhoomiverma23/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Bhoomiverma23/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/Bhoomiverma23/LeetCode/tree/master/0322-coin-change) |
+| [0399-evaluate-division](https://github.com/Bhoomiverma23/LeetCode/tree/master/0399-evaluate-division) |
 | [0404-sum-of-left-leaves](https://github.com/Bhoomiverma23/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Bhoomiverma23/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Bhoomiverma23/LeetCode/tree/master/1483-kth-ancestor-of-a-tree-node) |
@@ -253,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Bhoomiverma23/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Bhoomiverma23/LeetCode/tree/master/0322-coin-change) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Bhoomiverma23/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0399-evaluate-division](https://github.com/Bhoomiverma23/LeetCode/tree/master/0399-evaluate-division) |
 | [0403-frog-jump](https://github.com/Bhoomiverma23/LeetCode/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/Bhoomiverma23/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Bhoomiverma23/LeetCode/tree/master/0494-target-sum) |
@@ -432,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Bhoomiverma23/LeetCode/tree/master/0200-number-of-islands) |
+| [0399-evaluate-division](https://github.com/Bhoomiverma23/LeetCode/tree/master/0399-evaluate-division) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Bhoomiverma23/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Bhoomiverma23/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Bhoomiverma23/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -457,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/Bhoomiverma23/LeetCode/tree/master/0133-clone-graph) |
+| [0399-evaluate-division](https://github.com/Bhoomiverma23/LeetCode/tree/master/0399-evaluate-division) |
 | [1791-find-center-of-star-graph](https://github.com/Bhoomiverma23/LeetCode/tree/master/1791-find-center-of-star-graph) |
 | [2285-maximum-total-importance-of-roads](https://github.com/Bhoomiverma23/LeetCode/tree/master/2285-maximum-total-importance-of-roads) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Bhoomiverma23/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -467,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Shortest Path
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/Bhoomiverma23/LeetCode/tree/master/0399-evaluate-division) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Bhoomiverma23/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/Bhoomiverma23/LeetCode/tree/master/3620-network-recovery-pathways) |
 ## Backtracking
