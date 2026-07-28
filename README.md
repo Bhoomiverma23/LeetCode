@@ -276,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/Bhoomiverma23/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Bhoomiverma23/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Bhoomiverma23/LeetCode/tree/master/1331-rank-transform-of-an-array) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/Bhoomiverma23/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1463-cherry-pickup-ii](https://github.com/Bhoomiverma23/LeetCode/tree/master/1463-cherry-pickup-ii) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Bhoomiverma23/LeetCode/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1696-jump-game-vi](https://github.com/Bhoomiverma23/LeetCode/tree/master/1696-jump-game-vi) |
