@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/Bhoomiverma23/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0567-permutation-in-string](https://github.com/Bhoomiverma23/LeetCode/tree/master/0567-permutation-in-string) |
 | [0572-subtree-of-another-tree](https://github.com/Bhoomiverma23/LeetCode/tree/master/0572-subtree-of-another-tree) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Bhoomiverma23/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Bhoomiverma23/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1092-shortest-common-supersequence](https://github.com/Bhoomiverma23/LeetCode/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Bhoomiverma23/LeetCode/tree/master/1143-longest-common-subsequence) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/Bhoomiverma23/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0509-fibonacci-number](https://github.com/Bhoomiverma23/LeetCode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Bhoomiverma23/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Bhoomiverma23/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Bhoomiverma23/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Bhoomiverma23/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Bhoomiverma23/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
