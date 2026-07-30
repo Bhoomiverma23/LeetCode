@@ -289,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Bhoomiverma23/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1463-cherry-pickup-ii](https://github.com/Bhoomiverma23/LeetCode/tree/master/1463-cherry-pickup-ii) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Bhoomiverma23/LeetCode/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Bhoomiverma23/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1696-jump-game-vi](https://github.com/Bhoomiverma23/LeetCode/tree/master/1696-jump-game-vi) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Bhoomiverma23/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/Bhoomiverma23/LeetCode/tree/master/1932-merge-bsts-to-create-single-bst) |
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Bhoomiverma23/LeetCode/tree/master/0567-permutation-in-string) |
 | [1331-rank-transform-of-an-array](https://github.com/Bhoomiverma23/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Bhoomiverma23/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Bhoomiverma23/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/Bhoomiverma23/LeetCode/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Bhoomiverma23/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Bhoomiverma23/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -363,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/Bhoomiverma23/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [1288-remove-covered-intervals](https://github.com/Bhoomiverma23/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Bhoomiverma23/LeetCode/tree/master/1331-rank-transform-of-an-array) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Bhoomiverma23/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Bhoomiverma23/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2285-maximum-total-importance-of-roads](https://github.com/Bhoomiverma23/LeetCode/tree/master/2285-maximum-total-importance-of-roads) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Bhoomiverma23/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -431,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/Bhoomiverma23/LeetCode/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Bhoomiverma23/LeetCode/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/Bhoomiverma23/LeetCode/tree/master/0658-find-k-closest-elements) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Bhoomiverma23/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/Bhoomiverma23/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Bhoomiverma23/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
