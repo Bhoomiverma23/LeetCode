@@ -253,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Bhoomiverma23/LeetCode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Bhoomiverma23/LeetCode/tree/master/0011-container-with-most-water) |
 | [0049-group-anagrams](https://github.com/Bhoomiverma23/LeetCode/tree/master/0049-group-anagrams) |
 | [0063-unique-paths-ii](https://github.com/Bhoomiverma23/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Bhoomiverma23/LeetCode/tree/master/0064-minimum-path-sum) |
@@ -419,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Bhoomiverma23/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/Bhoomiverma23/LeetCode/tree/master/0011-container-with-most-water) |
 | [0125-valid-palindrome](https://github.com/Bhoomiverma23/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Bhoomiverma23/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/Bhoomiverma23/LeetCode/tree/master/0165-compare-version-numbers) |
@@ -454,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Bhoomiverma23/LeetCode/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Bhoomiverma23/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/Bhoomiverma23/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/Bhoomiverma23/LeetCode/tree/master/0605-can-place-flowers) |
