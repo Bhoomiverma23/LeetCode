@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Bhoomiverma23/LeetCode/tree/master/0392-is-subsequence) |
 | [0403-frog-jump](https://github.com/Bhoomiverma23/LeetCode/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/Bhoomiverma23/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0486-predict-the-winner](https://github.com/Bhoomiverma23/LeetCode/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/Bhoomiverma23/LeetCode/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/Bhoomiverma23/LeetCode/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/Bhoomiverma23/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Bhoomiverma23/LeetCode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Bhoomiverma23/LeetCode/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/Bhoomiverma23/LeetCode/tree/master/0096-unique-binary-search-trees) |
+| [0486-predict-the-winner](https://github.com/Bhoomiverma23/LeetCode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Bhoomiverma23/LeetCode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Bhoomiverma23/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Bhoomiverma23/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/Bhoomiverma23/LeetCode/tree/master/0399-evaluate-division) |
 | [0403-frog-jump](https://github.com/Bhoomiverma23/LeetCode/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/Bhoomiverma23/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0486-predict-the-winner](https://github.com/Bhoomiverma23/LeetCode/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/Bhoomiverma23/LeetCode/tree/master/0494-target-sum) |
 | [0605-can-place-flowers](https://github.com/Bhoomiverma23/LeetCode/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Bhoomiverma23/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -557,6 +560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/Bhoomiverma23/LeetCode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Bhoomiverma23/LeetCode/tree/master/0509-fibonacci-number) |
 ## Queue
 |  |
@@ -579,4 +583,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Bhoomiverma23/LeetCode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1683-invalid-tweets](https://github.com/Bhoomiverma23/LeetCode/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Bhoomiverma23/LeetCode/tree/master/1757-recyclable-and-low-fat-products) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Bhoomiverma23/LeetCode/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
