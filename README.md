@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/Bhoomiverma23/LeetCode/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/Bhoomiverma23/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1732-find-the-highest-altitude](https://github.com/Bhoomiverma23/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Bhoomiverma23/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Bhoomiverma23/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Bhoomiverma23/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/Bhoomiverma23/LeetCode/tree/master/0658-find-k-closest-elements) |
+| [0724-find-pivot-index](https://github.com/Bhoomiverma23/LeetCode/tree/master/0724-find-pivot-index) |
 | [0931-minimum-falling-path-sum](https://github.com/Bhoomiverma23/LeetCode/tree/master/0931-minimum-falling-path-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Bhoomiverma23/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Bhoomiverma23/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
