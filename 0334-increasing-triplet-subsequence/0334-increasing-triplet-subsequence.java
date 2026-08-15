@@ -3,16 +3,17 @@ class Solution {
         int n = nums.length;
         int first = Integer.MAX_VALUE;
         int second = Integer.MAX_VALUE;
-        for (int i = 0; i < n; i++) {
-            if (nums[i] <= first) {
+        for(int i = 0 ; i<n ; i++){
+            if(nums[i]<=first){
                 first = nums[i];
-            } else if (nums[i] <= second) {
+            }
+            else if(nums[i]<=second){
                 second = nums[i];
-            } else {
+            }
+            else{
                 return true;
             }
         }
-
         return false;
     }
 }
