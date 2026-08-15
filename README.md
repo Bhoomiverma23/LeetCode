@@ -755,4 +755,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Bhoomiverma23/LeetCode/tree/master/0202-happy-number) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/Bhoomiverma23/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 <!---LeetCode Topics End-->
