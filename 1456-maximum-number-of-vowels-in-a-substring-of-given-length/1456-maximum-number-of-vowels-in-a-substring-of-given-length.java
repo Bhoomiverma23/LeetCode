@@ -1,24 +1,26 @@
 class Solution {
+    public boolean isVowel(char ch){
+        return ch == 'a' || ch == 'e' || ch == 'i' || ch == 'o' || ch == 'u';
+    }
     public int maxVowels(String s, int k) {
+        int len = s.length();
+        int i = 0;
+        int j = 0;
+        int maxValue = 0;
         int count = 0;
-        for (int i = 0; i < k; i++) {
-            char ch = s.charAt(i);
-            if (ch == 'a' || ch == 'e' || ch == 'i' || ch == 'o' || ch == 'u') {
+        while(j<len){
+            if(isVowel(s.charAt(j))){
                 count++;
             }
-        }
-        int max = count;
-        for (int i = k; i < s.length(); i++) {
-            char left = s.charAt(i - k);
-            if (left == 'a' || left == 'e' || left == 'i' || left == 'o' || left == 'u') {
-                count--;
+            if(j-i+1==k){
+                maxValue = Math.max(maxValue,count);
+                if(isVowel(s.charAt(i))){
+                    count--;
+                }
+                i++;
             }
-            char right = s.charAt(i);
-            if (right == 'a' || right == 'e' || right == 'i' || right == 'o' || right == 'u') {
-                count++;
-            }
-            max = Math.max(max, count);
+            j++;
         }
-        return max;
+        return maxValue;
     }
 }
