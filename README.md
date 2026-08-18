@@ -325,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Bhoomiverma23/LeetCode/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/Bhoomiverma23/LeetCode/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Bhoomiverma23/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0274-h-index](https://github.com/Bhoomiverma23/LeetCode/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/Bhoomiverma23/LeetCode/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/Bhoomiverma23/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Bhoomiverma23/LeetCode/tree/master/0322-coin-change) |
@@ -442,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Bhoomiverma23/LeetCode/tree/master/0049-group-anagrams) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Bhoomiverma23/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/Bhoomiverma23/LeetCode/tree/master/0242-valid-anagram) |
+| [0274-h-index](https://github.com/Bhoomiverma23/LeetCode/tree/master/0274-h-index) |
 | [0295-find-median-from-data-stream](https://github.com/Bhoomiverma23/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Bhoomiverma23/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Bhoomiverma23/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -664,6 +666,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0274-h-index](https://github.com/Bhoomiverma23/LeetCode/tree/master/0274-h-index) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Bhoomiverma23/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Database
 |  |
