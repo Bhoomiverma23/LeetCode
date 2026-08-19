@@ -353,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/Bhoomiverma23/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Bhoomiverma23/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Bhoomiverma23/LeetCode/tree/master/1331-rank-transform-of-an-array) |
+| [1386-cinema-seat-allocation](https://github.com/Bhoomiverma23/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/Bhoomiverma23/LeetCode/tree/master/1406-stone-game-iii) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Bhoomiverma23/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1463-cherry-pickup-ii](https://github.com/Bhoomiverma23/LeetCode/tree/master/1463-cherry-pickup-ii) |
@@ -403,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Bhoomiverma23/LeetCode/tree/master/0567-permutation-in-string) |
 | [1331-rank-transform-of-an-array](https://github.com/Bhoomiverma23/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Bhoomiverma23/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1386-cinema-seat-allocation](https://github.com/Bhoomiverma23/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Bhoomiverma23/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/Bhoomiverma23/LeetCode/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Bhoomiverma23/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -429,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Bhoomiverma23/LeetCode/tree/master/0078-subsets) |
+| [1386-cinema-seat-allocation](https://github.com/Bhoomiverma23/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Bhoomiverma23/LeetCode/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Bhoomiverma23/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Bhoomiverma23/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -577,6 +580,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/Bhoomiverma23/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/Bhoomiverma23/LeetCode/tree/master/0605-can-place-flowers) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Bhoomiverma23/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1386-cinema-seat-allocation](https://github.com/Bhoomiverma23/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Bhoomiverma23/LeetCode/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Bhoomiverma23/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2029-stone-game-ix](https://github.com/Bhoomiverma23/LeetCode/tree/master/2029-stone-game-ix) |
