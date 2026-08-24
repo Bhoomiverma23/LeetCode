@@ -354,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/Bhoomiverma23/LeetCode/tree/master/0399-evaluate-division) |
 | [0403-frog-jump](https://github.com/Bhoomiverma23/LeetCode/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/Bhoomiverma23/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Bhoomiverma23/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0486-predict-the-winner](https://github.com/Bhoomiverma23/LeetCode/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/Bhoomiverma23/LeetCode/tree/master/0494-target-sum) |
 | [0605-can-place-flowers](https://github.com/Bhoomiverma23/LeetCode/tree/master/0605-can-place-flowers) |
@@ -479,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/Bhoomiverma23/LeetCode/tree/master/0274-h-index) |
 | [0295-find-median-from-data-stream](https://github.com/Bhoomiverma23/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Bhoomiverma23/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Bhoomiverma23/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Bhoomiverma23/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/Bhoomiverma23/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [1288-remove-covered-intervals](https://github.com/Bhoomiverma23/LeetCode/tree/master/1288-remove-covered-intervals) |
@@ -608,6 +610,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Bhoomiverma23/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/Bhoomiverma23/LeetCode/tree/master/0134-gas-station) |
 | [0334-increasing-triplet-subsequence](https://github.com/Bhoomiverma23/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Bhoomiverma23/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0605-can-place-flowers](https://github.com/Bhoomiverma23/LeetCode/tree/master/0605-can-place-flowers) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Bhoomiverma23/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/Bhoomiverma23/LeetCode/tree/master/1386-cinema-seat-allocation) |
