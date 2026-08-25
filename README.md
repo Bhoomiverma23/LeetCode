@@ -269,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Bhoomiverma23/LeetCode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Bhoomiverma23/LeetCode/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/Bhoomiverma23/LeetCode/tree/master/0096-unique-binary-search-trees) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Bhoomiverma23/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/Bhoomiverma23/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0202-happy-number](https://github.com/Bhoomiverma23/LeetCode/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/Bhoomiverma23/LeetCode/tree/master/0224-basic-calculator) |
@@ -318,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/Bhoomiverma23/LeetCode/tree/master/0071-simplify-path) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Bhoomiverma23/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Bhoomiverma23/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Bhoomiverma23/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0173-binary-search-tree-iterator](https://github.com/Bhoomiverma23/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0224-basic-calculator](https://github.com/Bhoomiverma23/LeetCode/tree/master/0224-basic-calculator) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Bhoomiverma23/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -343,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Bhoomiverma23/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Bhoomiverma23/LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0134-gas-station](https://github.com/Bhoomiverma23/LeetCode/tree/master/0134-gas-station) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Bhoomiverma23/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0198-house-robber](https://github.com/Bhoomiverma23/LeetCode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Bhoomiverma23/LeetCode/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/Bhoomiverma23/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
