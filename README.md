@@ -306,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0086-partition-list](https://github.com/Bhoomiverma23/LeetCode/tree/master/0086-partition-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Bhoomiverma23/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Bhoomiverma23/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0206-reverse-linked-list](https://github.com/Bhoomiverma23/LeetCode/tree/master/0206-reverse-linked-list) |
@@ -564,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Bhoomiverma23/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Bhoomiverma23/LeetCode/tree/master/0011-container-with-most-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Bhoomiverma23/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0086-partition-list](https://github.com/Bhoomiverma23/LeetCode/tree/master/0086-partition-list) |
 | [0125-valid-palindrome](https://github.com/Bhoomiverma23/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Bhoomiverma23/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/Bhoomiverma23/LeetCode/tree/master/0165-compare-version-numbers) |
