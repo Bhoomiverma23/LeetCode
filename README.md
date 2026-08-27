@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Bhoomiverma23/LeetCode/tree/master/0022-generate-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Bhoomiverma23/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0049-group-anagrams](https://github.com/Bhoomiverma23/LeetCode/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/Bhoomiverma23/LeetCode/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/Bhoomiverma23/LeetCode/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/Bhoomiverma23/LeetCode/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/Bhoomiverma23/LeetCode/tree/master/0076-minimum-window-substring) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/Bhoomiverma23/LeetCode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Bhoomiverma23/LeetCode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Bhoomiverma23/LeetCode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Bhoomiverma23/LeetCode/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/Bhoomiverma23/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Bhoomiverma23/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -474,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Bhoomiverma23/LeetCode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/Bhoomiverma23/LeetCode/tree/master/0078-subsets) |
 | [1386-cinema-seat-allocation](https://github.com/Bhoomiverma23/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Bhoomiverma23/LeetCode/tree/master/1483-kth-ancestor-of-a-tree-node) |
@@ -598,6 +601,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Bhoomiverma23/LeetCode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Bhoomiverma23/LeetCode/tree/master/0258-add-digits) |
 | [0289-game-of-life](https://github.com/Bhoomiverma23/LeetCode/tree/master/0289-game-of-life) |
 | [1260-shift-2d-grid](https://github.com/Bhoomiverma23/LeetCode/tree/master/1260-shift-2d-grid) |
