@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Bhoomiverma23/LeetCode/tree/master/0079-word-search) |
 | [0100-same-tree](https://github.com/Bhoomiverma23/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Bhoomiverma23/LeetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Bhoomiverma23/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/Bhoomiverma23/LeetCode/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/Bhoomiverma23/LeetCode/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/Bhoomiverma23/LeetCode/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/Bhoomiverma23/LeetCode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Bhoomiverma23/LeetCode/tree/master/0125-valid-palindrome) |
 | [0126-word-ladder-ii](https://github.com/Bhoomiverma23/LeetCode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Bhoomiverma23/LeetCode/tree/master/0127-word-ladder) |
@@ -351,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Bhoomiverma23/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Bhoomiverma23/LeetCode/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/Bhoomiverma23/LeetCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Bhoomiverma23/LeetCode/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Bhoomiverma23/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Bhoomiverma23/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Bhoomiverma23/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -704,6 +707,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Bhoomiverma23/LeetCode/tree/master/0036-valid-sudoku) |
 | [0063-unique-paths-ii](https://github.com/Bhoomiverma23/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Bhoomiverma23/LeetCode/tree/master/0064-minimum-path-sum) |
+| [0079-word-search](https://github.com/Bhoomiverma23/LeetCode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Bhoomiverma23/LeetCode/tree/master/0200-number-of-islands) |
 | [0289-game-of-life](https://github.com/Bhoomiverma23/LeetCode/tree/master/0289-game-of-life) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Bhoomiverma23/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -748,6 +752,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0052-n-queens-ii](https://github.com/Bhoomiverma23/LeetCode/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/Bhoomiverma23/LeetCode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Bhoomiverma23/LeetCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Bhoomiverma23/LeetCode/tree/master/0079-word-search) |
 | [0126-word-ladder-ii](https://github.com/Bhoomiverma23/LeetCode/tree/master/0126-word-ladder-ii) |
 | [0494-target-sum](https://github.com/Bhoomiverma23/LeetCode/tree/master/0494-target-sum) |
 ## Topological Sort
