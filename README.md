@@ -343,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Bhoomiverma23/LeetCode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Bhoomiverma23/LeetCode/tree/master/0011-container-with-most-water) |
+| [0016-3sum-closest](https://github.com/Bhoomiverma23/LeetCode/tree/master/0016-3sum-closest) |
 | [0036-valid-sudoku](https://github.com/Bhoomiverma23/LeetCode/tree/master/0036-valid-sudoku) |
 | [0046-permutations](https://github.com/Bhoomiverma23/LeetCode/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/Bhoomiverma23/LeetCode/tree/master/0049-group-anagrams) |
@@ -519,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Bhoomiverma23/LeetCode/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/Bhoomiverma23/LeetCode/tree/master/0049-group-anagrams) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Bhoomiverma23/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/Bhoomiverma23/LeetCode/tree/master/0242-valid-anagram) |
@@ -601,6 +603,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Bhoomiverma23/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Bhoomiverma23/LeetCode/tree/master/0011-container-with-most-water) |
+| [0016-3sum-closest](https://github.com/Bhoomiverma23/LeetCode/tree/master/0016-3sum-closest) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Bhoomiverma23/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Bhoomiverma23/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/Bhoomiverma23/LeetCode/tree/master/0086-partition-list) |
