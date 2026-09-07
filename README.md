@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Bhoomiverma23/LeetCode/tree/master/0125-valid-palindrome) |
 | [0126-word-ladder-ii](https://github.com/Bhoomiverma23/LeetCode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Bhoomiverma23/LeetCode/tree/master/0127-word-ladder) |
+| [0139-word-break](https://github.com/Bhoomiverma23/LeetCode/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/Bhoomiverma23/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/Bhoomiverma23/LeetCode/tree/master/0165-compare-version-numbers) |
 | [0168-excel-sheet-column-title](https://github.com/Bhoomiverma23/LeetCode/tree/master/0168-excel-sheet-column-title) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/Bhoomiverma23/LeetCode/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Bhoomiverma23/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Bhoomiverma23/LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0139-word-break](https://github.com/Bhoomiverma23/LeetCode/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/Bhoomiverma23/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Bhoomiverma23/LeetCode/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Bhoomiverma23/LeetCode/tree/master/0300-longest-increasing-subsequence) |
@@ -371,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Bhoomiverma23/LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0134-gas-station](https://github.com/Bhoomiverma23/LeetCode/tree/master/0134-gas-station) |
 | [0137-single-number-ii](https://github.com/Bhoomiverma23/LeetCode/tree/master/0137-single-number-ii) |
+| [0139-word-break](https://github.com/Bhoomiverma23/LeetCode/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Bhoomiverma23/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0198-house-robber](https://github.com/Bhoomiverma23/LeetCode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Bhoomiverma23/LeetCode/tree/master/0200-number-of-islands) |
@@ -468,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/Bhoomiverma23/LeetCode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Bhoomiverma23/LeetCode/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/Bhoomiverma23/LeetCode/tree/master/0133-clone-graph) |
+| [0139-word-break](https://github.com/Bhoomiverma23/LeetCode/tree/master/0139-word-break) |
 | [0202-happy-number](https://github.com/Bhoomiverma23/LeetCode/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/Bhoomiverma23/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Bhoomiverma23/LeetCode/tree/master/0242-valid-anagram) |
@@ -699,6 +703,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Bhoomiverma23/LeetCode/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/Bhoomiverma23/LeetCode/tree/master/0139-word-break) |
 | [0509-fibonacci-number](https://github.com/Bhoomiverma23/LeetCode/tree/master/0509-fibonacci-number) |
 ## Union-Find
 |  |
@@ -926,4 +931,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0052-n-queens-ii](https://github.com/Bhoomiverma23/LeetCode/tree/master/0052-n-queens-ii) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Bhoomiverma23/LeetCode/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Bhoomiverma23/LeetCode/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
