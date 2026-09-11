@@ -6,17 +6,11 @@ class Solution {
 
         for(int i = 0; i < n; i++) {
             if(nums[i] != 0) {
-                result[j] = nums[i];
+                int temp = nums[i];
+                nums[i] = nums[j];
+                nums[j] = temp;
                 j++;
             }
-        }
-
-        for(int i = 0; i < j; i++) {
-            nums[i] = result[i];
-        }
-
-        for(int i = j; i < n; i++) {
-            nums[i] = 0;
         }
     }
 }
